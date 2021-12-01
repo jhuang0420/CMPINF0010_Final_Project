@@ -13,4 +13,5 @@
 #### Allegheny County Wooded Area Boundaries [https://data.wprdc.org/dataset/allegheny-county-wooded-area-boundaries1]: Defines the boundaries of wooded areas (stands of trees too numerous to plot as individual trees).
 #### 
 
-### Abstract: In the case of alien abductions, South Oakland is the safest neighborhood. We decided this based on three metrics: number of open fields, number of Healthy Ride stations, and percentage wooded area. South Oakland is the best because it has no open fields (where aliens can snatch you immediately), many bikes (so you can escape), and while it is not densely wooded, it's neighbors are (giving you somewhere to hide from the tractor beam).
+### Abstract: 
+#### In the case of alien abductions, South Oakland is the safest neighborhood. We decided this based on three metrics: number of open fields, number of Healthy Ride stations, and percentage wooded area. South Oakland is the best because it has no open fields (where aliens can snatch you immediately), many bikes (so you can escape), and while it is not densely wooded, it's neighbors are (giving you somewhere to hide from the tractor beam).
