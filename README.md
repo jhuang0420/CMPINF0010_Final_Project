@@ -8,7 +8,7 @@
 ####
 
 ### Description and Links to the datasets used:
-#### Healthy Ride Stations [https://data.wprdc.org/dataset/healthyride-stations]: Healthy Ride (public bike-sharing system) station locations, names, id numbers, and dock capacities in the city of Pittsburg
+#### Healthy Ride Stations [https://data.wprdc.org/dataset/healthyride-stations]: Healthy Ride is a public bike-sharing system in Pittsburg with over 100 stations and 550 bikes. This dataset contains the most recent information about the locations, names, bike id numbers, and dock capacities of healthy ride stations. 
 ####
 #### 
 
